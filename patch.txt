@@ -1,0 +1,11 @@
+diff --git a/ejercicio.txt b/ejercicio.txt
+index 373871d..4b59437 100644
+--- a/ejercicio.txt
++++ b/ejercicio.txt
+@@ -2,3 +2,6 @@ git clone
+ git add
+ git checkout
+ git branch
++git merge
++git push
++git show
