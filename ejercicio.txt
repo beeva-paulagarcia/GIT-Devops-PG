@@ -2,3 +2,4 @@ git clone
 git add
 git checkout
 git branch
+git merge
